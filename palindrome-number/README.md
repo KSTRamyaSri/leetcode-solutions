@@ -113,3 +113,23 @@ To be analyzed.
 
 To be analyzed.
 
+---
+
+## Approach 6
+
+### Status
+
+Accepted
+
+### Analysis
+
+AI analysis will be added here.
+
+### What changed?
+
+To be analyzed.
+
+### Complexity
+
+To be analyzed.
+

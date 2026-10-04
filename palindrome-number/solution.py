@@ -36,3 +36,25 @@ class Solution {
         return false;
     }
 }
+
+# =====================================================
+# Approach 3
+# =====================================================
+
+class Solution {
+    public boolean isPalindrome(int x) {
+        if(x<0) return false;
+
+        // attempt 2
+        int y = x;
+        long  revx = 0;
+        while(y>0)
+        {
+            int digit = y10;
+            revx = revx*10+digit;
+            y = y/10;
+        }
+        if(revx == x) return true;
+        return false;
+    }
+}

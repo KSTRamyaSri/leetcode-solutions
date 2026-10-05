@@ -1,6 +1,9 @@
 # Score of Parentheses
 
 ## Approach 1
+### History
+
+- 05 October 2026 — Updated existing approach.
 
 ### Solution
 

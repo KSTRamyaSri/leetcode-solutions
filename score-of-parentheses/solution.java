@@ -6,7 +6,7 @@ class Solution {
     public int scoreOfParentheses(String s) {
         Stack<Integer> stack = new Stack<>();
         stack.push(0);
-
+    //hi
         for (char c : s.toCharArray()) {
             if (c == '(') {
                 stack.push(0);

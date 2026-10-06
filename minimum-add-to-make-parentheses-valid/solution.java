@@ -1,5 +1,5 @@
 // =====================================================
-// Approach 1 | First Added: 06 October 2026 | Last Updated: 06 October 2026
+// Approach 1 — Original Approach
 // =====================================================
 
 class Solution {
@@ -8,6 +8,8 @@ class Solution {
         for(int i=0; i<s.length(); i++)
         {
             //needed bettere version
+            //some what more
+            //can u
             if(s.charAt(i)== '(')   oc++;
             else{
                 if(oc>0)oc--;
@@ -17,3 +19,4 @@ class Solution {
         return oc+cc;
     }
 }
+

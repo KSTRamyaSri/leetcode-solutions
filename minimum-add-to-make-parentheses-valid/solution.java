@@ -7,7 +7,7 @@ class Solution {
         int oc=0, cc=0;
         for(int i=0; i<s.length(); i++)
         {
-            //hi
+            //hi2
             if(s.charAt(i)== '(')   oc++;
             else{
                 if(oc>0)oc--;

@@ -1,28 +1,23 @@
+<!-- LC_PROBLEM_META_START -->
+{
+  "slug": "minimum-add-to-make-parentheses-valid",
+  "title": "Minimum Add to Make Parentheses Valid",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/submissions/2164440539/",
+  "firstAdded": "2026-10-06",
+  "lastUpdated": "2026-10-06",
+  "approaches": [],
+  "reviewHistory": []
+}
+<!-- LC_PROBLEM_META_END -->
+
 # Minimum Add to Make Parentheses Valid
 
-## Approach 1
-### History
+- **Difficulty:** Medium
+- **LeetCode:** https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/submissions/2164440539/
+- **First Added:** 06 October 2026
+- **Last Updated:** 06 October 2026
 
-- 06 October 2026 — Updated existing approach.
-### History
+## Approaches
 
-- 06 October 2026 — Updated existing approach.
-### History
-
-- 06 October 2026 — Updated existing approach.
-
-**First Added:** 06 October 2026  
-**Last Updated:** 06 October 2026
-
-### Analysis
-
-Accepted LeetCode solution.
-
-### Complexity
-
-- Time: To be analyzed.
-- Space: To be analyzed.
-
-### History
-
-- 06 October 2026 — Initial solution added.
+No approaches recorded yet.

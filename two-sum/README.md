@@ -1,7 +1,7 @@
 # Two Sum
 
 - **Difficulty:** Unknown
-- **LeetCode:** https://leetcode.com/problems/two-sum/submissions/2164962053/
+- **LeetCode:** https://leetcode.com/problems/two-sum/submissions/2164963599/
 - **First Added:** 07 October 2026
 - **Last Updated:** 07 October 2026
 
@@ -53,4 +53,5 @@ This is the optimal solution for the Two Sum problem. Be prepared to explain why
 ## Review History
 
 - 07 October 2026 — Accepted submission processed as REPLACE_OLD.
+- 07 October 2026 — Exact duplicate accepted submission ignored.
 - 07 October 2026 — Exact duplicate accepted submission ignored.

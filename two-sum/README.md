@@ -1,21 +1,36 @@
 # Two Sum
 
 - **Difficulty:** Easy
-- **LeetCode:** https://leetcode.com/problems/two-sum/submissions/2165042211/
+- **LeetCode:** [https://leetcode.com/problems/two-sum/submissions/2165051990/](https://leetcode.com/problems/two-sum/submissions/2165051990/)
 - **First Added:** 07 October 2026
 - **Last Updated:** 07 October 2026
 
-## Approaches
+## What Is the Problem?
+
+Problem explanation unavailable.
+
+
+
+---
+
 
 ## Approach 1 — Hash Map One-Pass
 
-**Language:** unknown
-**First Added:** 07 October 2026
+**Language:** unknown  
+**First Added:** 07 October 2026  
 **Last Updated:** 07 October 2026
 
-### Explanation
+### How This Approach Works
 
 No explanation recorded.
+
+### Step-by-Step Trace
+
+Trace unavailable.
+
+### Simple Flow
+
+Flow diagram unavailable.
 
 ### Key Idea
 
@@ -26,35 +41,19 @@ Not provided.
 - **Time:** Not provided
 - **Space:** Not provided
 
-### Advantages
-
-- None recorded.
-
-### Disadvantages
-
-- None recorded.
-
-### Concepts
-
-- None recorded.
-
 ### Interview Note
 
-N/A
+Review the algorithm, complexity, and key idea before an interview.
 
 ### History
 
-- No history recorded.
+- 07 October 2026 — Initial accepted approach added.
 
 
-## Review History
+## Code
 
-- 07 October 2026 — Accepted submission processed as ADD_NEW.
-- 07 October 2026 — Exact duplicate accepted submission ignored.
-- 07 October 2026 — Exact duplicate accepted submission ignored.
-- 07 October 2026 — Exact duplicate accepted submission ignored.
-- 07 October 2026 — Accepted submission processed as REPLACE_OLD.
-- 07 October 2026 — Accepted submission processed as REPLACE_OLD.
-- 07 October 2026 — Accepted submission processed as REPLACE_OLD.
-- 07 October 2026 — Accepted submission processed as REPLACE_OLD.
-- 07 October 2026 — Accepted submission processed as ADD_NEW.
+Solution code is stored in the language-specific solution file in this folder.
+
+## History
+
+- 07 October 2026 — Initial accepted solution added.

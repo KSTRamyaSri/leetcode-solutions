@@ -1,7 +1,7 @@
 # Two Sum
 
 - **Difficulty:** Easy
-- **LeetCode:** https://leetcode.com/problems/two-sum/submissions/2165041330/
+- **LeetCode:** https://leetcode.com/problems/two-sum/submissions/2165042211/
 - **First Added:** 07 October 2026
 - **Last Updated:** 07 October 2026
 
@@ -57,3 +57,4 @@ N/A
 - 07 October 2026 — Accepted submission processed as REPLACE_OLD.
 - 07 October 2026 — Accepted submission processed as REPLACE_OLD.
 - 07 October 2026 — Accepted submission processed as REPLACE_OLD.
+- 07 October 2026 — Accepted submission processed as ADD_NEW.

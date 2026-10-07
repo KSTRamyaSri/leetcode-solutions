@@ -1,7 +1,7 @@
 # Two Sum
 
 - **Difficulty:** Easy
-- **LeetCode:** https://leetcode.com/problems/two-sum/submissions/2165040755/
+- **LeetCode:** https://leetcode.com/problems/two-sum/submissions/2165041330/
 - **First Added:** 07 October 2026
 - **Last Updated:** 07 October 2026
 
@@ -15,39 +15,36 @@
 
 ### Explanation
 
-Iterate through the list of numbers once using enumerate. For each number, calculate its complement by subtracting it from the target. Check if this complement already exists in the hash map. If it does, return the index of the complement and the current index. If it does not, store the current number and its index in the hash map and continue.
+No explanation recorded.
 
 ### Key Idea
 
-Use a hash map to store previously seen numbers and their indices, allowing O(1) lookups for the required complement during a single traversal of the array.
+Not provided.
 
 ### Complexity
 
-- **Time:** O(n)
-- **Space:** O(n)
+- **Time:** Not provided
+- **Space:** Not provided
 
 ### Advantages
 
-- Optimal time complexity by reducing the search time to O(1) using a hash map
-- Performs the operation in a single pass through the array
+- None recorded.
 
 ### Disadvantages
 
-- Requires extra space to store elements in the hash map
+- None recorded.
 
 ### Concepts
 
-- Arrays
-- Hash Tables
-- One-Pass
+- None recorded.
 
 ### Interview Note
 
-Always mention the trade-off between the brute-force O(n^2) nested loop approach and this optimal O(n) hash map approach.
+N/A
 
 ### History
 
-- 07 October 2026 — Existing approach updated after Gemini comparison.
+- No history recorded.
 
 
 ## Review History

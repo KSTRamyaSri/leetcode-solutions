@@ -2,7 +2,7 @@
   "slug": "median-of-two-sorted-arrays",
   "title": "Median of Two Sorted Arrays",
   "difficulty": "Hard",
-  "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/2165507129/",
+  "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/2165510738/",
   "firstAdded": "2026-10-07",
   "lastUpdated": "2026-10-07",
   "approaches": [
@@ -29,6 +29,7 @@
     }
   ],
   "reviewHistory": [
-    "07 October 2026 — Accepted submission processed as ADD_NEW."
+    "07 October 2026 — Accepted submission processed as ADD_NEW.",
+    "07 October 2026 — Exact duplicate accepted submission ignored."
   ]
 }

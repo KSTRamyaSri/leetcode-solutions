@@ -2,7 +2,7 @@
   "slug": "two-sum",
   "title": "Two Sum",
   "difficulty": "Unknown",
-  "url": "https://leetcode.com/problems/two-sum/submissions/2164962053/",
+  "url": "https://leetcode.com/problems/two-sum/submissions/2164963599/",
   "firstAdded": "2026-10-07",
   "lastUpdated": "2026-10-07",
   "approaches": [
@@ -36,6 +36,7 @@
   ],
   "reviewHistory": [
     "07 October 2026 — Accepted submission processed as REPLACE_OLD.",
+    "07 October 2026 — Exact duplicate accepted submission ignored.",
     "07 October 2026 — Exact duplicate accepted submission ignored."
   ]
 }

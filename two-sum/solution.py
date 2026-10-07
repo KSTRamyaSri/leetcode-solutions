@@ -5,9 +5,7 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-       #hi
-       #hi
-       #hiiiiiiiiiiiiiiii
+      
 
         hashmap = {} #hashmap
 

@@ -1,7 +1,7 @@
 # Two Sum
 
 - **Difficulty:** Easy
-- **LeetCode:** [https://leetcode.com/problems/two-sum/submissions/2165063386/](https://leetcode.com/problems/two-sum/submissions/2165063386/)
+- **LeetCode:** [https://leetcode.com/problems/two-sum/submissions/2165067057/](https://leetcode.com/problems/two-sum/submissions/2165067057/)
 - **First Added:** 07 October 2026
 - **Last Updated:** 07 October 2026
 

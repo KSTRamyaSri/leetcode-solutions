@@ -1,0 +1,34 @@
+{
+  "slug": "median-of-two-sorted-arrays",
+  "title": "Median of Two Sorted Arrays",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/2165507129/",
+  "firstAdded": "2026-10-07",
+  "lastUpdated": "2026-10-07",
+  "approaches": [
+    {
+      "language": "java",
+      "name": "Accepted Solution",
+      "firstAdded": "2026-10-07",
+      "lastUpdated": "2026-10-07",
+      "explanation": "Gemini analysis unavailable.",
+      "keyIdea": "See the solution code.",
+      "timeComplexity": "Not analyzed",
+      "spaceComplexity": "Not analyzed",
+      "advantages": [
+        "Accepted by LeetCode"
+      ],
+      "disadvantages": [
+        "AI analysis unavailable"
+      ],
+      "concepts": [],
+      "interviewNote": "Review this solution manually.",
+      "history": [
+        "07 October 2026 — New accepted approach added."
+      ]
+    }
+  ],
+  "reviewHistory": [
+    "07 October 2026 — Accepted submission processed as ADD_NEW."
+  ]
+}

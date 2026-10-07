@@ -1,0 +1,24 @@
+{
+  "problems": [
+    {
+      "slug": "median-of-two-sorted-arrays",
+      "title": "Median of Two Sorted Arrays",
+      "difficulty": "Hard",
+      "language": "Java",
+      "date": "2026-10-07",
+      "path": "median-of-two-sorted-arrays/solution.java"
+    }
+  ],
+  "daily": {
+    "2026-10-07": {
+      "count": 1,
+      "languages": [
+        "Java"
+      ],
+      "problems": [
+        "Median of Two Sorted Arrays"
+      ]
+    }
+  },
+  "totalAcceptedSubmissions": 1
+}

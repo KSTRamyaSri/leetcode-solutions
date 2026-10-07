@@ -5,21 +5,15 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        #hi
-        #hi
-        #hi
+       
 
-#hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-        #hiiiiiii
-        #hellloo
+        hashmap = {} #hashmap
 
-        hashmap = {}
-
-        for i, num in enumerate(nums):
+        for i, num in enumerate(nums): #forloop
             complement = target - num
 
             if complement in hashmap:
-                return [hashmap[complement], i]
+                return [hashmap[complement], i] #returning
 
             hashmap[num] = i
         

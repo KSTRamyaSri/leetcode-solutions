@@ -7,13 +7,14 @@ class Solution(object):
         """
       
 
-        hashmap = {} #hashmap
+        hashmap = {} # Maps each number to its corresponding index: {value: index}
 
-        for i, num in enumerate(nums): 
+        for i, num in enumerate(nums):  #forloop
             complement = target - num
 
+            # Check if the needed complement has already been traversed
             if complement in hashmap:
                 return [hashmap[complement], i] #returning
-
+            # Cache the current number and its index for future lookups
             hashmap[num] = i
         

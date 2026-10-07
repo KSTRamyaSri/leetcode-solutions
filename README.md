@@ -11,7 +11,6 @@ My LeetCode problem-solving journey, automatically maintained by my LeetCode Git
 ## Overall Statistics
 
 - **Total Problems:** 1
-- **Total Accepted Submissions:** 1
 - **Current Daily Streak:** 1 day(s)
 
 ### Languages

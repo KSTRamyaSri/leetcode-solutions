@@ -21,4 +21,4 @@ My LeetCode problem-solving journey, automatically maintained by my LeetCode Git
 
 | # | Problem | Difficulty | Language | Date |
 |---:|---|---|---|---|
-| 1 | [Two Sum](two-sum/solution.py) | Unknown | Python | 07 October 2026 |
+| 1 | [Two Sum](two-sum/solution.py) | Easy | Python | 07 October 2026 |

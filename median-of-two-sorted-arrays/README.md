@@ -1,7 +1,7 @@
 # Median of Two Sorted Arrays
 
 - **Difficulty:** Hard
-- **LeetCode:** https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/2165507129/
+- **LeetCode:** https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/2165510738/
 - **First Added:** 07 October 2026
 - **Last Updated:** 07 October 2026
 
@@ -49,3 +49,4 @@ Review this solution manually.
 ## Review History
 
 - 07 October 2026 — Accepted submission processed as ADD_NEW.
+- 07 October 2026 — Exact duplicate accepted submission ignored.

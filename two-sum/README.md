@@ -1,13 +1,13 @@
 # Two Sum
 
 - **Difficulty:** Easy
-- **LeetCode:** https://leetcode.com/problems/two-sum/submissions/2165033631/
+- **LeetCode:** https://leetcode.com/problems/two-sum/submissions/2165034420/
 - **First Added:** 07 October 2026
 - **Last Updated:** 07 October 2026
 
 ## Approaches
 
-## Approach 1 — One-Pass Hash Table
+## Approach 1 — One-pass Hash Map
 
 **Language:** unknown
 **First Added:** 07 October 2026
@@ -15,11 +15,11 @@
 
 ### Explanation
 
-The algorithm iterates through the list of numbers once. For each element, it calculates its complement by subtracting the current number from the target. It then checks if this complement already exists in the hashmap. If it does, the indices of the complement and the current number are returned. If it does not, the current number and its index are stored in the hashmap, and the loop continues.
+The algorithm iterates through the list of numbers once. For each element, it calculates the complement needed to reach the target. It checks if this complement already exists in the hash map. If it does, the indices of the complement and the current number are returned immediately. If it does not, the current number and its index are stored in the hash map for future lookups.
 
 ### Key Idea
 
-Use a hash map to store previously visited numbers and their indices, allowing O(1) lookups for the required complement.
+Use a hash map to store previously seen numbers and their indices, enabling O(1) lookups for the required complement during a single pass.
 
 ### Complexity
 
@@ -28,22 +28,22 @@ Use a hash map to store previously visited numbers and their indices, allowing O
 
 ### Advantages
 
-- Operates in a single pass through the array
-- Optimal time complexity for the problem
-- Avoids nested loops
+- Operates in a single pass over the array
+- Optimal time complexity compared to the brute-force O(n^2) approach
 
 ### Disadvantages
 
-- Requires extra memory to store elements in the hash map
+- Requires extra space to store elements in the hash map
 
 ### Concepts
 
+- Hash Map
 - Array
-- Hash Table
+- Complement Lookup
 
 ### Interview Note
 
-Always mention the trade-off between time and space complexity when discussing the hash map approach versus the brute force O(n^2) approach.
+Always mention that while the space complexity increases to O(n), trading space for time reduces the time complexity from O(n^2) to O(n), which is the optimal pattern for this problem.
 
 ### History
 
@@ -56,5 +56,6 @@ Always mention the trade-off between time and space complexity when discussing t
 - 07 October 2026 — Exact duplicate accepted submission ignored.
 - 07 October 2026 — Exact duplicate accepted submission ignored.
 - 07 October 2026 — Exact duplicate accepted submission ignored.
+- 07 October 2026 — Accepted submission processed as REPLACE_OLD.
 - 07 October 2026 — Accepted submission processed as REPLACE_OLD.
 - 07 October 2026 — Accepted submission processed as REPLACE_OLD.

@@ -1,3 +1,7 @@
+<!-- LC_DASHBOARD_META_START -->
+{"problems":[{"title":"Median of Two Sorted Arrays","path":"median-of-two-sorted-arrays/solution.java","slug":"median-of-two-sorted-arrays","difficulty":"Hard","language":"Java","date":"2026-10-07"}],"daily":{"2026-10-07":{"count":1,"languages":["Java"],"problems":["Median of Two Sorted Arrays"]}},"totalAcceptedSubmissions":1}
+<!-- LC_DASHBOARD_META_END -->
+
 # LeetCode Solutions
 
 My LeetCode problem-solving journey, automatically maintained by my LeetCode GitHub Pusher.
